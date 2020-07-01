@@ -1,0 +1,62 @@
+,Sl No,License Number,Vehicle Type,E-mail,Phone Number,Name,Total number of Violations,Violations Allowed
+0,1,BMC450,car,srigokulnath199@gmail.com,6381180460,srigokul,3,NO
+1,2,BA229M,car,srigokulnath199@gmail.com,6381180460,srigokul,3,NO
+2,3,BX5380,Ambulance,srigokulnath199@gmail.com,6381180460,srigokul,3,YES
+3,4,BA5458,car,srigokulnath199@gmail.com,6381180460,srigokul,0,NO
+4,5,BT6086,car,srigokulnath199@gmail.com,6381180460,srigokul,1,NO
+5,6,BFZ533,car,srigokulnath199@gmail.com,6381180460,srigokul,1,NO
+6,7,G39673,BUS,gossgowtham@gmail.com,7845479545,goss gowtham,0,NO
+7,8,BGR349,car,gossgowtham@gmail.com,7845479545,goss gowtham,1,NO
+8,9,BUK279,car,gossgowtham@gmail.com,7845479545,goss gowtham,1,NO
+9,10,BC5829,BUS,gossgowtham@gmail.com,7845479545,goss gowtham,1,NO
+10,11,BS222E,car,gossgowtham@gmail.com,7845479545,goss gowtham,1,NO
+11,12,B4T912,car,gossgowtham@gmail.com,7845479545,goss gowtham,2,NO
+12,13,BU5120,car,gossgowtham@gmail.com,7845479545,goss gowtham,2,NO
+13,14,B7H527,car,2k16cse064@kiot.ac.in,6381180460,manoj,2,NO
+14,15,BUB357,Ambulance,2k16cse064@kiot.ac.in,6381180460,manoj,1,YES
+15,16,B89F97,car,2k16cse064@kiot.ac.in,6381180460,manoj,1,NO
+16,17,BD326Y,car,2k16cse064@kiot.ac.in,6381180460,manoj,1,NO
+17,18,B33032,car,2k16cse064@kiot.ac.in,6381180460,manoj,0,NO
+18,19,B87971,BUS,2k16cse064@kiot.ac.in,6381180460,manoj,1,NO
+19,20,B83930, car,gowtham17003@gmail.com,8667811161,pv gow,1,NO
+20,21,B56E49,car,gowtham17003@gmail.com,8667811161,pv gow,0,NO
+21,22,BPN948,car,gowtham17003@gmail.com,8667811161,pv gow,1,NO
+22,23,B96F47,car,gowtham17003@gmail.com,8667811161,pv gow,1,NO
+23,24,B67431,BUS,gowtham17003@gmail.com,8667811161,pv gow,16,NO
+24,25,BGT279,car,gowtham17003@gmail.com,8667811161,pv gow,1,NO
+25,26,BZ4035,car,gowtham17003@gmail.com,8667811161,pv gow,12,NO
+26,27,B28E28,car,gowtham17003@gmail.com,8667811161,pv gow,0,NO
+27,28,BJA858,Ambulance,gowtham17003@gmail.com,8667811161,pv gow,1,YES
+28,29,B69H48,car,2k16cse100@kiot.ac.in,6381180460,gokulnath,1,NO
+29,30,B43888,car,2k16cse100@kiot.ac.in,6381180460,gokulnath,1,NO
+30,31,B33U27,car,2k16cse100@kiot.ac.in,6381180460,gokulnath,0,NO
+31,32,BX082J,car,2k16cse100@kiot.ac.in,6381180460,gokulnath,1,NO
+32,33,BNN457,car,2k16cse100@kiot.ac.in,6381180460,gokulnath,1,NO
+33,34,B95083,car,2k16cse100@kiot.ac.in,6381180460,gokulnath,0,NO
+34,35,BVE532,car,2k16cse100@kiot.ac.in,6381180460,gokulnath,1,NO
+35,36,S9N767,car,2k16cse100@kiot.ac.in,6381180460,gokulnath,1,NO
+36,37,B6T616,car,2k16cse100@kiot.ac.in,6381180460,gokulnath,0,NO
+37,38,BL7962,car,2k16cse025@kiot.ac.in,8667811161,sanjai,0,NO
+38,39,BRF967,car,2k16cse025@kiot.ac.in,8667811161,sanjai,0,NO
+39,40,B01097,car,2k16cse025@kiot.ac.in,8667811161,sanjai,0,NO
+40,41,B77419,BUS,2k16cse025@kiot.ac.in,8667811161,sanjai,0,NO
+41,42,BL0980,car,2k16cse025@kiot.ac.in,8667811161,sanjai,0,NO
+42,43,B3B751,car,2k16cse025@kiot.ac.in,8667811161,sanjai,0,NO
+43,44,BP8095,car,2k16cse025@kiot.ac.in,8667811161,sanjai,0,NO
+44,45,BFM352,car,2k16cse025@kiot.ac.in,8667811161,raju,0,NO
+45,46,BWM562,car,2k16cse025@kiot.ac.in,8667811161,raju,0,NO
+46,47,B3Z777,car,2k16cse025@kiot.ac.in,8667811161,raju,0,NO
+47,48,B6Z568,car,2k16cse025@kiot.ac.in,8667811161,raju,0,NO
+48,49,BRE427,car,2k16cse025@kiot.ac.in,8667811161,raju,0,NO
+49,50,BGQ691,car,2k16cse065@kiot.ac.in,6381180460,raju,0,NO
+50,51,B7G695,car,2k16cse065@kiot.ac.in,6381180460,ganesh,0,NO
+51,52,B7M117,car,2k16cse065@kiot.ac.in,6381180460,ganesh,0,NO
+52,53,B6H374,car,2k16cse065@kiot.ac.in,6381180460,ganesh,0,NO
+53,54,BFK847,car,2k16cse065@kiot.ac.in,6381180460,ganesh,0,NO
+54,55,B36Z37,car,2k16cse065@kiot.ac.in,6381180460,ganesh,0,NO
+55,56,BX9424,car,2k16cse065@kiot.ac.in,6381180460,ganesh,0,NO
+56,57,B56F26,car,2k16cse065@kiot.ac.in,6381180460,uijwal,0,NO
+57,58,B45S41,car,2k16cse065@kiot.ac.in,6381180460,uijwal,0,NO
+58,59,BRX782,car,2k16cse065@kiot.ac.in,6381180460,uijwal,0,NO
+59,60,BQH571,car,2k16cse065@kiot.ac.in,6381180460,uijwal,0,NO
+60,61,B09G45,car,2k16cse065@kiot.ac.in,6381180460,uijwal,0,NO

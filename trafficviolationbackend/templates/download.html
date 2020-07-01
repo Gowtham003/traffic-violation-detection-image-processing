@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% load static%}
+{% block content %}
+<style>
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+</style>
+
+<div class="form-row mb-3 ">
+    <div class="form-group col-md-4 col-sm-6 col-xs-12 mb-0">
+		<a href="{% url 'videoreport' %}"><button class="btn btn-warning shadow" id="videoreport"> Video Report Page </button></a>
+	</div>
+	<div class="col-md-4 col-sm-6 col-xs-12">
+			<a href="{% static "Violated_cars/violated_data.csv" %}" >
+				<button type="submit" class="tab">Download Violated Data</button>
+			</a>
+    </div>
+</div>
+
+{% endblock %}
